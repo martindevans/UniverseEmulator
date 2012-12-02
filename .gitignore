@@ -1,0 +1,10 @@
+*.suo
+*.user
+*.cachefile
+*.xnb
+*.sln.docstates
+*.cache
+*.pyc
+_Resharper.*
+UniverseEmulator.Devkit.RemoteSensorSuite/bin
+UniverseEmulator.Devkit.RemoteSensorSuite/obj
